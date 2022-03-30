@@ -1,0 +1,9 @@
+.input-box-border {
+	border-radius: unset !important;
+    box-shadow: none !important;
+    height: 50px !important;
+}
+
+.font-weight-bold {
+    font-weight: bold;
+}
